@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead." />
       <item value="press" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
