@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception processing template &quot;book-list&quot;: An error happened during template parsing (template: &quot;class path resource [templates/book-list.html]&quot;)" />
       <item value="Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead." />
       <item value="press" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
