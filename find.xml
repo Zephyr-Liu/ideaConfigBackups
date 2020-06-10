@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\tabac\src\main\java\com\xr\config\CorsConfig.java [tabac]'" />
+    <option name="defaultScopeName" value="File '...\tabac\src\main\java\com\xr\config\CorsConfig.java [tabac]'" />
+    <option name="SEARCH_SCOPE" value="File '...\tabac\src\main\java\com\xr\config\CorsConfig.java [tabac]'" />
   </component>
 </application>
