@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\tabac\src\main\java\com\xr\shiro\MyShiroRealm.java [tabac]'" />
-    <option name="defaultScopeName" value="File '...\tabac\src\main\java\com\xr\shiro\MyShiroRealm.java [tabac]'" />
-    <option name="SEARCH_SCOPE" value="File '...\tabac\src\main\java\com\xr\shiro\MyShiroRealm.java [tabac]'" />
+    <option name="customScope" value="Directory '...\tabac [tabac]'" />
+    <option name="defaultScopeName" value="Directory '...\tabac [tabac]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\tabac [tabac]'" />
   </component>
 </application>
