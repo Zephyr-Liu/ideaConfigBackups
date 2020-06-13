@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1:30 Can't continue rebase Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing. Resolve... 1:30 Push rejected Push has been cancelled, because not all conflicts were resolved during update. Resolve the conflicts and invoke push again." />
+      <item value="git -c credential.helper= -c core.quotepath=false -c log.showSignature=false stash save &quot;Uncommitted changes before Update at 2020/6/14 1:17&quot;" />
       <item value="Field error in object 'sysUser' on field 'createTime': rejected value [1534216271000]; codes [typeMismatch.sysUser.createTime,typeMismatch.createTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sysUser.createTime,createTime]; arguments []; default message [createTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'createTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat @com.fasterxml.jackson.annotation.JsonFormat java.util.Date] for value '1534216271000'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1534216271000]]" />
       <item value="distinct" />
       <item value="nested exception is java.io.FileNotFoundException: class path resource [mybatis/mybatis-config.xml] cannot be opened because it does not exist" />
@@ -12,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
