@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 ### The error may exist in file [E:\code\java\tobacco\tabac\target\classes\mybatis\mappers\SysUserMapper.xml]" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.xr.mapper.SysUserMapper.selectByExample" />
       <item value="1:30 Can't continue rebase Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing. Resolve... 1:30 Push rejected Push has been cancelled, because not all conflicts were resolved during update. Resolve the conflicts and invoke push again." />
       <item value="git -c credential.helper= -c core.quotepath=false -c log.showSignature=false stash save &quot;Uncommitted changes before Update at 2020/6/14 1:17&quot;" />
@@ -15,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
