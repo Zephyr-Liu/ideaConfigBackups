@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=false] did not match the expected credentials." />
       <item value="Wildcard string cannot be null or empty. Make sure permission strings are properly formatted." />
       <item value="org.apache.shiro.authc.IncorrectCredentialsException: Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=false] did not match the expected credentials." />
       <item value="[org.apache.shiro.authc.UsernamePasswordToken - null, rememberMe=false]." />
       <item value="was unable to find account data for the submitted AuthenticationToken" />
-      <item value="Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=false] did not match the expected credentials." />
       <item value="Action: Consider defining a bean of type 'com.xr.mapper.SysUserMapper' in your configuration." />
       <item value="Consider defining a bean of type 'com.xr.mapper.SysUserMapper' in your configuration. Process finished with exit code 0" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.xr.mapper.SysUserMapper.selectByExample" />
@@ -22,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
