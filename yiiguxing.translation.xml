@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Read timed out" />
       <item value="Communications link failure" />
       <item value="Resolved exception caused by handler execution: org.apache.shiro.authz.UnauthorizedException: Subject does not have permission [dept:list]" />
       <item value="Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=false] did not match the expected credentials." />
