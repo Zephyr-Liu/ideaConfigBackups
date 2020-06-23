@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=": Failed to process import candidates for configuration class [com.xr.TabacApplication]; nested exception is java.lang.IllegalStateException: The following classes could not be excluded because they are not auto-configuration classes: - org.apache.shiro.spring.config.ShiroAnnotationProcessorConfiguration" />
+      <item value="Failed to process import candidates for configuration class [com.xr.TabacApplication]; nested exception is java.lang.IllegalStateException: The following classes could not be excluded because they are not auto-configuration classes:" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'shiroFilter' defined in class path resource [com/xr/config/ShiroConfig.class]: BeanPostProcessor before instantiation of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: warning no match for this type name: com.xr.controller [Xlint:invalidAbsoluteTypeName]" />
       <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
       <item value="Thread Local" />
@@ -28,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
