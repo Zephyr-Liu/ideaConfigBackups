@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="main&quot; org.apache.cxf.interceptor.Fault: Could not start Jetty server on port 9,090: Failed to bind to localhost/127.0.0.1:9090" />
       <item value="[main] INFO org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean - Creating Service {http://service.Lessons.xr.com/}BookServiceService from class com.xr.Lessons.service.BookService Process finished with exit code 0" />
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalArgumentException: com.xr.Lessons.service.impl.BookServiceImpl is not an interface" />
       <item value="Could not send Message." />
