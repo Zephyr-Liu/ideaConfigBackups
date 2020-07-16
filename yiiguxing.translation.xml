@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
+      <item value="is unrecognized or represents more than one time zone." />
+      <item value="java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
+      <item value="Access denied for user ''@'localhost' (using password: YES)" />
+      <item value="connect error, url jdbc://mysql://localhost:3306/mybatis_2020, driverClass com.mysql.jdbc.Driver" />
+      <item value="Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="Payment" />
       <item value="main&quot; org.apache.cxf.interceptor.Fault: Could not start Jetty server on port 9,090: Failed to bind to localhost/127.0.0.1:9090" />
       <item value="[main] INFO org.apache.cxf.wsdl.service.factory.ReflectionServiceFactoryBean - Creating Service {http://service.Lessons.xr.com/}BookServiceService from class com.xr.Lessons.service.BookService Process finished with exit code 0" />
@@ -45,17 +51,11 @@
       <item value="1:30 Can't continue rebase Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing. Resolve... 1:30 Push rejected Push has been cancelled, because not all conflicts were resolved during update. Resolve the conflicts and invoke push again." />
       <item value="git -c credential.helper= -c core.quotepath=false -c log.showSignature=false stash save &quot;Uncommitted changes before Update at 2020/6/14 1:17&quot;" />
       <item value="Field error in object 'sysUser' on field 'createTime': rejected value [1534216271000]; codes [typeMismatch.sysUser.createTime,typeMismatch.createTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [sysUser.createTime,createTime]; arguments []; default message [createTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'createTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [@org.springframework.format.annotation.DateTimeFormat @com.fasterxml.jackson.annotation.JsonFormat java.util.Date] for value '1534216271000'; nested exception is java.lang.IllegalArgumentException: Parse attempt failed for value [1534216271000]]" />
-      <item value="distinct" />
-      <item value="nested exception is java.io.FileNotFoundException: class path resource [mybatis/mybatis-config.xml] cannot be opened because it does not exist" />
-      <item value="Unsatisfied dependency expressed through field 'usersService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userServiceImpl'" />
-      <item value="Exception processing template &quot;book-list&quot;: An error happened during template parsing (template: &quot;class path resource [templates/book-list.html]&quot;)" />
-      <item value="Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead." />
-      <item value="press" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
