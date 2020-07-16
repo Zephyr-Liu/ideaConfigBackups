@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.web.client.HttpClientErrorException$NotFound: 404 :" />
       <item value="Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
@@ -50,12 +51,11 @@
       <item value="Action: Consider defining a bean of type 'com.xr.mapper.SysUserMapper' in your configuration." />
       <item value="Consider defining a bean of type 'com.xr.mapper.SysUserMapper' in your configuration. Process finished with exit code 0" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.xr.mapper.SysUserMapper.selectByExample" />
-      <item value="1:30 Can't continue rebase Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing. Resolve... 1:30 Push rejected Push has been cancelled, because not all conflicts were resolved during update. Resolve the conflicts and invoke push again." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
