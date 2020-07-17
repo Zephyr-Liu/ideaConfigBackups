@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Identify and stop the process that's listening on port 8001 or configure this application to listen on another port." />
+      <item value="Web server failed to start. Port 8001 was already in use." />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'paymentController' defined in file [E:\code\java\Spring_cloud\Cloud-provider-payment8001\target\classes\com\atguigu\springcloud\controller\PaymentController.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'paymentServiceImpl' defined in file [E:\code\java\Spring_cloud\Cloud-provider-payment8001\target\classes\com\atguigu\springcloud\service\impl\PaymentServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'paymentMapper' defined in file [E:\code\java\Spring_cloud\Cloud-provider-payment8001\target\classes\com\atguigu\springcloud\dao\PaymentMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [E:\code\java\Spring_cloud\Cloud-provider-payment8001\target\classes\mapper\PaymentMapper.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'file [E:\code\java\Spring_cloud\Cloud-provider-payment8001\target\classes\mapper\PaymentMapper.xml]'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.atguigu.springcloud.entity.Payment'. Cause: java.lang.ClassNotFoundException: Cannot find class: com.atguigu.springcloud.entity.Payment" />
       <item value="Application run failed" />
       <item value="Cannot find class: com.xr.springcloud.entity.Payment" />
@@ -49,13 +51,11 @@
       <item value="Resolved exception caused by handler execution: org.apache.shiro.authz.UnauthorizedException: Subject does not have permission [dept:list]" />
       <item value="Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=false] did not match the expected credentials." />
       <item value="Wildcard string cannot be null or empty. Make sure permission strings are properly formatted." />
-      <item value="org.apache.shiro.authc.IncorrectCredentialsException: Submitted credentials for token [org.apache.shiro.authc.UsernamePasswordToken - admin, rememberMe=false] did not match the expected credentials." />
-      <item value="[org.apache.shiro.authc.UsernamePasswordToken - null, rememberMe=false]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>

@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\tabac\src\main\java\com\xr [tabac]'" />
-    <option name="defaultScopeName" value="Directory '...\tabac\src\main\java\com\xr [tabac]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\tabac\src\main\java\com\xr [tabac]'" />
+    <option name="customScope" value="Directory '... [Spring_cloud]'" />
+    <option name="defaultScopeName" value="Directory '... [Spring_cloud]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [Spring_cloud]'" />
   </component>
 </application>
