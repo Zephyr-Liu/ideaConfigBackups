@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request method 'POST' not supported]" />
       <item value="org.springframework.web.client.HttpClientErrorException$NotFound: 404 :" />
       <item value="Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
@@ -50,12 +51,11 @@
       <item value="was unable to find account data for the submitted AuthenticationToken" />
       <item value="Action: Consider defining a bean of type 'com.xr.mapper.SysUserMapper' in your configuration." />
       <item value="Consider defining a bean of type 'com.xr.mapper.SysUserMapper' in your configuration. Process finished with exit code 0" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.xr.mapper.SysUserMapper.selectByExample" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
