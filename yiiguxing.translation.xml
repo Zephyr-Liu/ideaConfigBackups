@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="NOAUTH Authentication required." />
       <item value="Failed connecting to host 112.126.59.112:6379" />
       <item value="connect timed out" />
@@ -50,12 +51,11 @@
       <item value="Field error in object 'partyInformation' on field 'endTime': rejected value []; codes [typeMismatch.partyInformation.endTime,typeMismatch.endTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [partyInformation.endTime,endTime]; arguments []; default message [endTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'endTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]" />
       <item value="Parameter 0 of method shiroFilter in com.xr.config.ShiroConfig required a bean named 'authenticator' that could not be found." />
       <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
-      <item value=": Failed to process import candidates for configuration class [com.xr.TabacApplication]; nested exception is java.lang.IllegalStateException: The following classes could not be excluded because they are not auto-configuration classes: - org.apache.shiro.spring.config.ShiroAnnotationProcessorConfiguration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>
