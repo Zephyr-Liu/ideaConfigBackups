@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escription: An attempt was made to call the method springfox.documentation.spi.service.contexts.RequestMappingContext.findAnnotation(Ljava/lang/Class;)Lcom/google/common/base/Optional; but it does not exist. Its class, springfox.documentation.spi.service.contexts.RequestMappingContext, is available from the following locations: jar:file:/D:/ProgrammingTools/Apache/localRepository/io/springfox/springfox-spi/2.5.0/springfox-spi-2.5.0.jar!/springfox/documentation/spi/service/contexts/RequestMappingContext.class It was loaded from the following location: file:/D:/ProgrammingTools/Apache/localRepository/io/springfox/springfox-spi/2.5.0/springfox-spi-2.5.0.jar" />
       <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
       <item value="NOAUTH Authentication required." />
       <item value="Failed connecting to host 112.126.59.112:6379" />
@@ -50,12 +51,11 @@
       <item value="Unparseable date: &quot;&quot;" />
       <item value="Field error in object 'partyInformation' on field 'endTime': rejected value []; codes [typeMismatch.partyInformation.endTime,typeMismatch.endTime,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [partyInformation.endTime,endTime]; arguments []; default message [endTime]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'endTime'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]" />
       <item value="Parameter 0 of method shiroFilter in com.xr.config.ShiroConfig required a bean named 'authenticator' that could not be found." />
-      <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="85" />
       </map>
     </option>
   </component>
