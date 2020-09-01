@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception in thread &quot;main&quot; java.lang.ArrayIndexOutOfBoundsException: 7" />
       <item value="Read timed out" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of springfox.documentation.spi.service.contexts.RequestMappingContext" />
       <item value="escription: An attempt was made to call the method springfox.documentation.spi.service.contexts.RequestMappingContext.findAnnotation(Ljava/lang/Class;)Lcom/google/common/base/Optional; but it does not exist. Its class, springfox.documentation.spi.service.contexts.RequestMappingContext, is available from the following locations: jar:file:/D:/ProgrammingTools/Apache/localRepository/io/springfox/springfox-spi/2.5.0/springfox-spi-2.5.0.jar!/springfox/documentation/spi/service/contexts/RequestMappingContext.class It was loaded from the following location: file:/D:/ProgrammingTools/Apache/localRepository/io/springfox/springfox-spi/2.5.0/springfox-spi-2.5.0.jar" />
@@ -50,12 +51,11 @@
       <item value="┌─────┐ | sysLogController defined in file [E:\code\java\government\tabac\target\classes\com\xr\controller\SysLogController.class] ↑ ↓ | controllerAspect (field private com.xr.controller.SysLogController com.xr.log.ControllerAspect.sysLogController) └─────┘" />
       <item value="2020-06-28 15:59:09.147 WARN 4996 --- [ restartedMain] ationConfigEmbeddedWebApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysLogController' defined in file [E:\code\java\government\tabac\target\classes\com\xr\controller\SysLogController.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'controllerAspect': Unsatisfied dependency expressed through field 'sysLogController'; nested exception is org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'sysLogController': Requested bean is currently in creation: Is there an unresolvable circular reference?" />
       <item value="java.lang.ClassCastException: java.lang.Long cannot be cast to java.lang.Integer" />
-      <item value="Unparseable date: &quot;&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="88" />
       </map>
     </option>
   </component>
