@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Minimum Idle" />
       <item value="set Maximum Pool Size" />
       <item value="java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
       <item value="cn.smallbun.screw.core.exception.ScrewException: cn.smallbun.screw.core.exception.ProduceException: java.lang.reflect.InvocationTargetException" />
@@ -50,12 +51,11 @@
       <item value="Parameter 'getUserId' not found. Available parameters are [arg1, arg0, param1, param2]" />
       <item value="sun.rmi.transport.tcp : RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=52839] throws" />
       <item value="There is no setter for property named 'jobName' in 'class com.xr.model.SysDept'" />
-      <item value="Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous ; SQL []; Column 'status' in where clause is ambiguous; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous] with root cause" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
