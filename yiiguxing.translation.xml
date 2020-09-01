@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cn.smallbun.screw.core.exception.ScrewException: cn.smallbun.screw.core.exception.ProduceException: java.lang.reflect.InvocationTargetException" />
+      <item value="java.lang.NoClassDefFoundError: freemarker/cache/TemplateLoader" />
+      <item value="freemarker/cache/Template Loader" />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_261] at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_261] at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_261] at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_261]" />
+      <item value="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
       <item value="Exception in thread &quot;main&quot; java.lang.ArrayIndexOutOfBoundsException: 7" />
       <item value="Read timed out" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of springfox.documentation.spi.service.contexts.RequestMappingContext" />
@@ -46,16 +51,11 @@
       <item value="There is no setter for property named 'jobName' in 'class com.xr.model.SysDept'" />
       <item value="Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous ; SQL []; Column 'status' in where clause is ambiguous; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous] with root cause" />
       <item value="java.lang.Long cannot be cast to java.lang.String" />
-      <item value="2020-06-28 17:01:56.301 ERROR 29292 --- [p-nio-80-exec-1] o.a.c.c.C.[.[.[.[dispatcherServlet] : Servlet.service() for servlet [dispatcherServlet] in context with path [/tabac] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause" />
-      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [/tabac] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root caus" />
-      <item value="┌─────┐ | sysLogController defined in file [E:\code\java\government\tabac\target\classes\com\xr\controller\SysLogController.class] ↑ ↓ | controllerAspect (field private com.xr.controller.SysLogController com.xr.log.ControllerAspect.sysLogController) └─────┘" />
-      <item value="2020-06-28 15:59:09.147 WARN 4996 --- [ restartedMain] ationConfigEmbeddedWebApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sysLogController' defined in file [E:\code\java\government\tabac\target\classes\com\xr\controller\SysLogController.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'controllerAspect': Unsatisfied dependency expressed through field 'sysLogController'; nested exception is org.springframework.beans.factory.BeanCurrentlyInCreationException: Error creating bean with name 'sysLogController': Requested bean is currently in creation: Is there an unresolvable circular reference?" />
-      <item value="java.lang.ClassCastException: java.lang.Long cannot be cast to java.lang.Integer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="93" />
       </map>
     </option>
   </component>
